@@ -1,4 +1,3 @@
-simonmd/repo-sync-tests@main:
+Alara-Imaging/repo-sync-test:
   - source: docker/
     dest: supabase/docker/
-    deleteOrphaned: true
