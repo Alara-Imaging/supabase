@@ -1,0 +1,4 @@
+simonmd/repo-sync-tests@main:
+  - source: docker/
+    dest: supabase/docker/
+    deleteOrphaned: true
